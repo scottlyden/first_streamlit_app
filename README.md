@@ -2,5 +2,5 @@
 Snowflake tutorial
 
 
-['Menu link']('https://scottlyden-first-streamlit-app-streamlit-app-vaver5.streamlit.app/')'
+[Menu link](https://scottlyden-first-streamlit-app-streamlit-app-vaver5.streamlit.app/)
 
