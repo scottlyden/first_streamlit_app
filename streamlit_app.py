@@ -4,6 +4,8 @@ import streamlit
 
 import snowflake.connector
 
+from urllib.error import URLError
+
 streamlit.title('Healthy Diner')
 
 streamlit.header('Breakfast Menu')
